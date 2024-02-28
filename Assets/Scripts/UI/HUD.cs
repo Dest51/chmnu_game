@@ -2,6 +2,8 @@
 using Components.Mana;
 using Game.Player;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 namespace UI
 {
@@ -14,13 +16,15 @@ namespace UI
         [SerializeField] private BaseHealthComponent _playerHealthComponent = null;
         [SerializeField] private PlayerManaComponent _playerManaComponent = null;
         [SerializeField] private Inventory _invertoryManage;
+        public Text playerNameText = null;
 
         static private HUD _instance;
         public static HUD Instance { get => _instance; }
 
         private void Awake()
         {
-            _instance = this;
+            _instance = this;   
+            playerNameText.text = PlayerData.playerName;
         }
 
         public void CreateIvnentoryItem(InventoryItem item)
