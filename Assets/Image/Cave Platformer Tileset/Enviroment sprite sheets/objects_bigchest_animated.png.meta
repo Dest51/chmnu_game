@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 19f60735a26b44949acfda90d4d794df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: objects-animated-2_0
+  - first:
+      213: 21300002
+    second: objects-animated-2_1
+  - first:
+      213: 21300004
+    second: objects-animated-2_2
+  - first:
+      213: 21300006
+    second: objects-animated-2_3
+  - first:
+      213: 21300008
+    second: objects-animated-2_4
+  - first:
+      213: 21300010
+    second: objects-animated-2_5
+  - first:
+      213: 21300012
+    second: objects-animated-2_6
+  - first:
+      213: 21300014
+    second: objects-animated-2_7
+  - first:
+      213: 21300016
+    second: objects-animated-2_8
+  - first:
+      213: 21300018
+    second: objects-animated-2_9
+  - first:
+      213: 21300020
+    second: objects-animated-2_10
+  - first:
+      213: 21300022
+    second: objects-animated-2_11
+  - first:
+      213: 21300024
+    second: objects-animated-2_12
+  - first:
+      213: 21300026
+    second: objects-animated-2_13
+  - first:
+      213: 21300028
+    second: objects-animated-2_14
+  - first:
+      213: 21300030
+    second: objects-animated-2_15
+  - first:
+      213: 21300032
+    second: objects-animated-2_16
+  - first:
+      213: 21300034
+    second: objects-animated-2_17
+  - first:
+      213: 21300036
+    second: objects-animated-2_18
+  - first:
+      213: 21300038
+    second: objects-animated-2_19
+  - first:
+      213: 21300040
+    second: objects-animated-2_20
+  - first:
+      213: 21300042
+    second: objects-animated-2_21
+  - first:
+      213: 21300044
+    second: objects-animated-2_22
+  - first:
+      213: 21300046
+    second: objects-animated-2_23
+  - first:
+      213: 21300048
+    second: objects-animated-2_24
+  - first:
+      213: 21300050
+    second: objects-animated-2_25
+  - first:
+      213: 21300052
+    second: objects-animated-2_26
+  - first:
+      213: 21300054
+    second: objects-animated-2_27
+  - first:
+      213: 1788802910074101522
+    second: objects_bigchest_animated_0
+  - first:
+      213: 4674661948891320702
+    second: objects_bigchest_animated_1
+  - first:
+      213: 3690462044538304059
+    second: objects_bigchest_animated_2
+  - first:
+      213: 9140093781251500691
+    second: objects_bigchest_animated_3
+  - first:
+      213: 4193841391531432029
+    second: objects_bigchest_animated_4
+  - first:
+      213: -7471871050829996706
+    second: objects_bigchest_animated_5
+  - first:
+      213: 530131678945291474
+    second: objects_bigchest_animated_6
+  - first:
+      213: -3515981158820186389
+    second: objects_bigchest_animated_7
+  - first:
+      213: 6173429000366160053
+    second: objects_bigchest_animated_8
+  - first:
+      213: -873624811072490811
+    second: objects_bigchest_animated_9
+  - first:
+      213: -1636304937996680197
+    second: objects_bigchest_animated_10
+  - first:
+      213: 6048380083239156430
+    second: objects_bigchest_animated_11
+  - first:
+      213: -6677475193404485383
+    second: objects_bigchest_animated_12
+  - first:
+      213: -576222963637479408
+    second: objects_bigchest_animated_13
+  - first:
+      213: -6468883167187405498
+    second: objects_bigchest_animated_14
+  - first:
+      213: -4273630595701693343
+    second: objects_bigchest_animated_15
+  - first:
+      213: 6270365118070944668
+    second: objects_bigchest_animated_16
+  - first:
+      213: -3167501607166050043
+    second: objects_bigchest_animated_17
+  - first:
+      213: 6138901297974672959
+    second: objects_bigchest_animated_18
+  - first:
+      213: -165781667895034877
+    second: objects_bigchest_animated_19
+  - first:
+      213: -8341077283274742775
+    second: objects_bigchest_animated_20
+  - first:
+      213: -9078950530036889929
+    second: objects_bigchest_animated_21
+  - first:
+      213: -6619645310367610068
+    second: objects_bigchest_animated_22
+  - first:
+      213: 5307247129821682264
+    second: objects_bigchest_animated_23
+  - first:
+      213: -4012943415670275394
+    second: objects_bigchest_animated_24
+  - first:
+      213: -7733533063443520688
+    second: objects_bigchest_animated_25
+  - first:
+      213: 4546256341201493257
+    second: objects_bigchest_animated_26
+  - first:
+      213: -8362931051148482522
+    second: objects_bigchest_animated_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: objects_bigchest_animated_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fd62ce4ca13d810800000000000000
+      internalID: 1788802910074101522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 48
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71d3bc664cbfd040800000000000000
+      internalID: 4674661948891320702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 48
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3674c53da7273330800000000000000
+      internalID: 3690462044538304059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aa0452ed228de70800000000000000
+      internalID: 9140093781251500691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 48
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d589f829684833a30800000000000000
+      internalID: 4193841391531432029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 48
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dd0cfedd49e4890800000000000000
+      internalID: -7471871050829996706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 48
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc27b704f76b5700800000000000000
+      internalID: 530131678945291474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be67e87b3c9b43fc0800000000000000
+      internalID: -3515981158820186389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 32
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b87be4b7fc6ca550800000000000000
+      internalID: 6173429000366160053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c27e0decd240e3f0800000000000000
+      internalID: -873624811072490811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf38d72145daa49e0800000000000000
+      internalID: -1636304937996680197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 32
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca7408d3a920f350800000000000000
+      internalID: 6048380083239156430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 32
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f094acb0b7d453a0800000000000000
+      internalID: -6677475193404485383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01817fc7448d008f0800000000000000
+      internalID: -576222963637479408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 16
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6457a467809e936a0800000000000000
+      internalID: -6468883167187405498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 16
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164a5f9ad9301b4c0800000000000000
+      internalID: -4273630595701693343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 16
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c937e926adfc40750800000000000000
+      internalID: 6270365118070944668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 16
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50183670216ca04d0800000000000000
+      internalID: -3167501607166050043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 16
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ef6f88432c13550800000000000000
+      internalID: 6138901297974672959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 16
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c38de837603bdf0800000000000000
+      internalID: -165781667895034877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 16
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904245e576a8e3c80800000000000000
+      internalID: -8341077283274742775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b68ec36896110280800000000000000
+      internalID: -9078950530036889929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b4570a9ab4224a0800000000000000
+      internalID: -6619645310367610068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a9b34452127a940800000000000000
+      internalID: 5307247129821682264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb20b3599392f48c0800000000000000
+      internalID: -4012943415670275394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e5be17a8fca490800000000000000
+      internalID: -7733533063443520688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d9e232e0c871f30800000000000000
+      internalID: 4546256341201493257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objects_bigchest_animated_27
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628e5378486e0fb80800000000000000
+      internalID: -8362931051148482522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 51f9074191e078d478c5780d7c532d2f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
